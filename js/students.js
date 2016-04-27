@@ -1,30 +1,30 @@
-var students = [ 
-  { 
-   name: 'Dave',
+var students = [
+  {
+   name: 'Julia',
     track: 'Front End Development',
     achievements: 158,
     points: 14730
   },
   {
-    name: 'Jody',
+    name: 'Jodie',
     track: 'iOS Development with Swift',
     achievements: '175',
     points: '16375'
   },
   {
-    name: 'Jordan',
+    name: 'Valeta',
     track: 'PHP Development',
     achievements: '55',
     points: '2025'
   },
   {
-    name: 'John',
+    name: 'Ally',
     track: 'Learn WordPress',
     achievements: '40',
     points: '1950'
   },
   {
-    name: 'Trish',
+    name: 'Tori',
     track: 'Rails Development',
     achievements: '5',
     points: '350'
