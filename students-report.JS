@@ -7,6 +7,7 @@ function print(message) {
 
 for (var i = 0; i < students.length; i++) {
   student = students[i];
+  console.log(student);
   message += '<h1>' + student.name + '</h1>';
   message += '<p>' + student.track + '</p>';
   message += '<p>' + student.achievements + '</p>';
